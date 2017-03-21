@@ -7,5 +7,6 @@ By thye end of this class I will know the following:
 1. How GitHub
 2. How GitHub Desktop works
 
-[I'm an inline-style link](https://www.google.com)
+[Hello World Wiki](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
 
+![YOutube video]([![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE))
